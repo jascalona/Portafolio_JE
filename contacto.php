@@ -22,7 +22,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="/dashboard.html">Dashboard</a>
+                            <a class="nav-link" href="/index.html">Dashboard</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/block.html">Block</a>
@@ -31,7 +31,7 @@
                             <a class="nav-link" href="/certificados.html">Certificados</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/contacto.html">Contacto</a>
+                            <a class="nav-link" href="/contacto.php">Contacto</a>
                         </li>
                         
                     </ul>

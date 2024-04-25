@@ -11611,3 +11611,12 @@ section.height-auto {
   margin-top: -px;
   font-size: 15px;
 }
+
+
+/*MEDIAS QUERY BLOCK*/
+
+@media (max-width: 630px) {
+  .container-block{
+    margin-left: 22%;
+  }
+}

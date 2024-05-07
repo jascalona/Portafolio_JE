@@ -133,7 +133,7 @@
         <div class="row">
             <div class="">
                 <p style="color: black;" class="m-0">Jose Escalona Dev
-                    &copy;  Todos los derechos reservados. José Escalona® | Designed by <a href="#" style="color: blue;">JEscalona</a>
+                    &copy;  Todos los derechos reservados. José Escalona® | Designed by <a href="https://portafoliosjesclona.000webhostapp.com/" style="color: blue;">JEscalona</a>
                 </p>
                 <div class="linear"></div>
                 <div class="icons">
